@@ -7,6 +7,8 @@ h2 {
 img {
     display: block;
     max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a,
@@ -95,11 +97,13 @@ button {
 #price-table {
     padding-top: 4rem !important;
     padding-bottom: 4rem !important;
+
 }
 
 #price-table__premium {
     background: #192440;
     color: #ffffff;
+
 }
 
 #price-table ul li {
